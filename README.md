@@ -1,4 +1,4 @@
-Provide Insights to Management in Consumer Goods Domain
+                                                                       Provide Insights to Management in Consumer Goods Domain
 
 Overview
 Atliq Hardwares is one of the leading computer hardware manufacturers in India, with a significant presence in international markets. Despite its success, the company identified a gap in its ability to generate actionable insights to guide its decision-making processes. 
