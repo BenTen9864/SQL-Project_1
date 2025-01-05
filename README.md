@@ -1,6 +1,6 @@
 Provide Insights to Management in Consumer Goods Domain
 
-Part 1: Overview
+Overview
 
 Atliq Hardwares is one of the leading computer hardware manufacturers in India, with a significant presence in international markets. Despite its success, the company identified a gap in its ability to generate actionable insights to guide its decision-making processes. 
 
@@ -19,8 +19,10 @@ Identifying growth opportunities and areas for improvement.
 
 This project demonstrates how SQL can be leveraged to extract, transform, and analyze data to address real-world business challenges.
 
-Part 2: Skills Used
-Common Table Expressions (CTEs)
+
+
+Skills Used
+Common Table Expressions (CTE)
 
 Window Functions (DENSE_RANK, RANK)
 
